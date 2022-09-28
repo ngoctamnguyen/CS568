@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Tam Nguyen",
+        "username": "tam123",
+        "password": "12345",
+        "email": "tam@gmail.com",
+        "tel":"123-456-7890",
+        "roll": "admin"
+    },
+    {
+        "name": "Zenny",
+        "username": "zen123",
+        "password": "12345",
+        "email": "zen@gmail.com",
+        "tel":"123-456-7890",
+        "roll": "user"
+    },
+    {
+        "name": "Jack chan",
+        "username": "jack123",
+        "password": "12345",
+        "email": "jack@gmail.com",
+        "tel":"123-456-7890",
+        "roll": "user"
+    }
+
+]

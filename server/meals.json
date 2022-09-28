@@ -1,0 +1,36 @@
+[
+    {
+        "name": "PHO",
+        "detail": "Pho is very popular in Vietnamese Cuisine. It's a soup consisting of broth, rice noodles, various types of meat, and garnished with scallions, cilantro, chili pepper, white onions, lime, bean sprouts, and basil. It’s most known for the flavorful beef broth cooked from beef bones for many hours. Making the broth is a lengthy process and is generally cooked the evening before and through the night. The nutritious broth in combination with all the spices makes this dish irresistible. It's delicious, healthy, and refreshing to eat.",
+        "rating": 10,
+        "price": 12,
+        "photo": "https://i.ytimg.com/vi/DYjIzHU2YnQ/maxresdefault.jpg",
+        "review": ["good", "delicious"]
+    },
+    {
+        "name": "PHO",
+        "detail": "Asisn noode",
+        "rating": 10,
+        "price": 12,
+        "photo": "./images/pho.jpg",
+        "review": ["good", "delicious"]
+    },
+    {
+        "name": "PHO",
+        "detail": "Asisn noode",
+        "rating": 10,
+        "price": 12,
+        "photo": "./images/pho.jpg",
+        "review": ["good", "delicious"]
+    },
+    {
+        "name": "PHO",
+        "detail": "Asisn noode",
+        "rating": 10,
+        "price": 12,
+        "photo": "./images/pho.jpg",
+        "review": ["good", "delicious"]
+    }
+]
+
+
